@@ -1,0 +1,5 @@
+D:/Learning/MiniTaskManager/build/CMakeFiles/edit_cache.dir
+D:/Learning/MiniTaskManager/build/CMakeFiles/rebuild_cache.dir
+D:/Learning/MiniTaskManager/build/MiniTaskManager/CMakeFiles/MiniTaskManager.dir
+D:/Learning/MiniTaskManager/build/MiniTaskManager/CMakeFiles/edit_cache.dir
+D:/Learning/MiniTaskManager/build/MiniTaskManager/CMakeFiles/rebuild_cache.dir
